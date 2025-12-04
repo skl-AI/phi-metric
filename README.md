@@ -1,0 +1,1 @@
+We present a comparative evaluation of language model behavior under varying strengths of phi-regularization, a novel mechanism that balances predictive power and semantic uncertainty via the phi-metric. Four levels of regularization (0.0, 0.1, 0.25, and 0.5) were tested across 15 diverse prompts spanning scientific, historical, philosophical, strategic, and creative domains. 
